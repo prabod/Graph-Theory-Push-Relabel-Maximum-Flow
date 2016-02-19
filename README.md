@@ -1,4 +1,4 @@
-# Graph-Theory-Push-Relabel-Maximum-Flow [![Build Status](https://api.travis-ci.org/prabod/Graph-Theory-Ford-Fulkerson-Maximum-Flow.svg)](https://travis-ci.org/prabod/Graph-Theory-Ford-Fulkerson-Maximum-Flow) [![Dependency Status](https://david-dm.org/prabod/Graph-Theory-Ford-Fulkerson-Maximum-Flow.svg)](https://david-dm.org/prabod/Graph-Theory-Ford-Fulkerson-Maximum-Flow)
+# Graph-Theory-Push-Relabel-Maximum-Flow [![Build Status](https://api.travis-ci.org/prabod/Graph-Theory-Push-Relabel-Maximum-Flow.svg)](https://travis-ci.org/prabod/Graph-Theory-Push-Relabel-Maximum-Flow) [![Dependency Status](https://david-dm.org/prabod/Graph-Theory-Push-Relabel-Maximum-Flow.svg)](https://david-dm.org/prabod/Graph-Theory-Push-Relabel-Maximum-Flow)
 
 
 > Push-Relabel Algorithm for Maximum Flow Problem
