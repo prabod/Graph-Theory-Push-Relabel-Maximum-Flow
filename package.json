@@ -1,0 +1,27 @@
+{
+  "name": "graph-theory-push-relabel",
+  "version": "1.0.0",
+  "description": "Push-Relabel Algorithm for Maximum Flow Problem",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabod/Graph-Theory-Push-Relabel-Maximum-Flow.git"
+  },
+  "keywords": [
+    "graph-theory",
+    "Push-Relabel"
+  ],
+  "author": "Prabod Rathnayaka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prabod/Graph-Theory-Push-Relabel-Maximum-Flow/issues"
+  },
+  "homepage": "https://github.com/prabod/Graph-Theory-Push-Relabel-Maximum-Flow/",
+  "devDependencies": {
+    "tape": "^4.4.0"
+  },
+  "dependencies": {}
+}

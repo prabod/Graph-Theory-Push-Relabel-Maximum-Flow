@@ -15,5 +15,5 @@ var graph = [
 		0, 0, 0, 0, 0, 0
 	]
 ];
-alert("The maximum possible flow is " +
-	PushRelabel.PushRelabel(graph, 0, 5));
+console.log("The maximum possible flow is " +
+	PushRelabel(graph, 0, 5));
