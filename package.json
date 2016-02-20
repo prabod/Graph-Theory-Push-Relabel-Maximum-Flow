@@ -14,7 +14,7 @@
     "graph-theory",
     "Push-Relabel"
   ],
-  "author": "Prabod Rathnayaka",
+  "author": "Prabod Rathnayaka <prabod@rathnayaka.me>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/prabod/Graph-Theory-Push-Relabel-Maximum-Flow/issues"

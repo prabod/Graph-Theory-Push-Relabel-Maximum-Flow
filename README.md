@@ -1,4 +1,4 @@
-# Graph-Theory-Push-Relabel[![Build Status](https://api.travis-ci.org/prabod/Graph-Theory-Push-Relabel-Maximum-Flow.svg)](https://travis-ci.org/prabod/Graph-Theory-Push-Relabel-Maximum-Flow) [![Dependency Status](https://david-dm.org/prabod/Graph-Theory-Push-Relabel-Maximum-Flow.svg)](https://david-dm.org/prabod/Graph-Theory-Push-Relabel-Maximum-Flow)
+# Graph-Theory-Push-Relabel [![Build Status](https://api.travis-ci.org/prabod/Graph-Theory-Push-Relabel-Maximum-Flow.svg)](https://travis-ci.org/prabod/Graph-Theory-Push-Relabel-Maximum-Flow) [![Dependency Status](https://david-dm.org/prabod/Graph-Theory-Push-Relabel-Maximum-Flow.svg)](https://david-dm.org/prabod/Graph-Theory-Push-Relabel-Maximum-Flow)
 
 
 > Push-Relabel Algorithm for Maximum Flow Problem
@@ -58,6 +58,10 @@ Compute the maximum flow in a flow network between source node `source` and sink
 - `sink`: sink vertex
 
 **Returns:** Returns a number representing the maximum flow.
+
+## Installation
+
+	npm install graph-theory-push-relabel
 
 ## License
 
